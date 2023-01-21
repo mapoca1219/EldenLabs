@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736000096558",
+    "project_id": "el-den-labs",
+    "storage_bucket": "el-den-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736000096558:android:842652dec0d207512062bf",
+        "android_client_info": {
+          "package_name": "gulshear.aplication_pru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736000096558-151dihghp52tuq30qfbdrt123kmq4804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFe5pHIwavgp9eXYaj8-YSCG6zEMWpLtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736000096558-151dihghp52tuq30qfbdrt123kmq4804.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
